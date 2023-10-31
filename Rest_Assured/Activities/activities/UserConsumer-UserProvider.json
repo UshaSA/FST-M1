@@ -16,10 +16,10 @@
           "Content-Type": "application/json"
         },
         "body": {
-          "firstName": "Kopal",
-          "lastName": "Gupta",
+          "firstName": "Usha",
+          "lastName": "Sony",
           "id": 123,
-          "email": "kopal.gupta@ibm.com"
+          "email": "usha.sony@ibm.com"
         },
         "matchingRules": {
           "body": {
@@ -64,10 +64,10 @@
           "Content-Type": "application/json; charset=UTF-8"
         },
         "body": {
-          "firstName": "Kopal",
-          "lastName": "Gupta",
+          "firstName": "Usha",
+          "lastName": "Sony",
           "id": 123,
-          "email": "kopal.gupta@ibm.com"
+          "email": "usha.sony@ibm.com"
         },
         "matchingRules": {
           "body": {
